@@ -1,0 +1,27 @@
+#wrap 
+ #header
+  .sta_wrap
+    .sta_comment
+    .sta_heart
+  .nav_text_title
+  .gnb
+ .blank_header_area
+
+ #container
+  .spot
+    .spot_category_title
+    .spot_text_title
+  #content
+   .section_content_info
+   .section_title_image
+   .section_text
+   .section_comments
+     .section_commemts_info
+     .section_comments_area
+   .section_more_text
+   .section_popular_text
+  
+
+. sass
+. º“Ω∫∆Æ∏Æ ±Í...
+. æ∆≈Ë
